@@ -1,0 +1,16 @@
+.logo h1 {
+  font-family: 'Arial Black', Arial, sans-serif;
+  font-size: 2.5rem;
+  margin: 0;
+  text-align: center;
+}
+
+.logo .orange {
+  color: #ff9800; /* orange */
+}
+.logo .yellow {
+  color: #ffeb3b; /* yellow */
+}
+.logo .red {
+  color: #f44336; /* red */
+}
